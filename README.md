@@ -54,12 +54,12 @@
 
 
 
-
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medkhalilkh&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en&layout=compact" alt="medkhalilkh" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=medkhalil&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en" alt="medkhalil" /></p>
 
-
+</div>
 
 <h3 align="center">Contact me!</h3>
 <p align="center">
