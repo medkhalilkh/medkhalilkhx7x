@@ -64,9 +64,9 @@
 <a href="https://www.instagram.com/medkhalilkhtx/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalil khalfallah" height="30" width="80" /></a>
 <a href="https://www.behance.net/2bffacd7" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khalil khalfallah" height="30" width="80" 
  </a>
-    <a href="https://mail.google.com/mail/u/0/#inbox" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="khalil khalfallah" height="30" width="80"/> S
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="-blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="khalil khalfallah" height="30" width="80"/>
  </a>
 </p>
-    
+
 </body>
 </html>
