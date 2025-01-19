@@ -17,7 +17,7 @@
 
 
 
-khaliltx190@gmail.com 
+
 
 
 
@@ -61,8 +61,10 @@ khaliltx190@gmail.com
 <h3 align="center">Contact me!</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/med-khalil-khalfallah-a1b15a236/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalil khalfallah" height="30" width="80" /></a>
-<a href="https://www.instagram.com/medkhalilkhtx/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikbel-kacem" height="30" width="80" /></a>
+<a href="https://www.instagram.com/medkhalilkhtx/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalil khalfallah" height="30" width="80" /></a>
 <a href="https://www.behance.net/2bffacd7" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khalil khalfallah" height="30" width="80" 
+ </a>
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="khalil khalfallah" height="30" width="80" 
  </a>
 </p>
     
