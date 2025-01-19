@@ -34,13 +34,10 @@ khaliltx190@gmail.com
        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
         <a href="https://webflow.com/made-in-webflow" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="80" height="80" /> </a>
-        <a href="https://www.protopie.io/" target="_blank"> <img src="./assets/protopie-seeklogo.com.svg" alt="protopie-seeklogo" width="100" height="100"></a>
-        <a href="https://spline.design/" target="_blank"> <img src="./spline-logos-idx0zotd8Y.png" alt="spline" width="80" height="80"></a>
-        <a href="https://www.raspberrypi.com/" target="_blank"> <img src="./assets/raspberry-pi-seeklogo.com.svg" alt="Rasberry" width="80" height="80"></a>
-         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
+        
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacemikbel&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en&layout=compact" alt="kacemikbel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medkhalilkh&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en&layout=compact" alt="medkhalilkh" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kacemikbel&theme=blueberry&count_private=true&hide_border=true&line_height=20show_icons=true&locale=en" alt="kacemikbel" /></p>
 
@@ -48,11 +45,10 @@ khaliltx190@gmail.com
 
 <h3 align="center">Contact me!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ikbel-kassem-732457226/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikbel kassem" height="30" width="80" /></a>
-<a href="https://www.facebook.com/kassem.ikbel.96/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="med ikbel" height="30" width="80" /></a>
-<a href="https://www.instagram.com/ikbel_kacem/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikbel-kacem" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/med-khalil-khalfallah-a1b15a236/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalil khalfallah" height="30" width="80" /></a>
+<a href="https://www.instagram.com/medkhalilkhtx/" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikbel-kacem" height="30" width="80" /></a>
 <a href="https://dribbble.com/kacem_ikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kacem ikbel" height="30" width="80" /></a>
-<a href="https://www.behance.net/kassemikbel" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kassem ikbel" height="30" width="80" /></a>
+<a href="https://www.behance.net/2bffacd7" target="-blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khalil khalfallah" height="30" width="80" /></a>
 </p>
     
 </body>
